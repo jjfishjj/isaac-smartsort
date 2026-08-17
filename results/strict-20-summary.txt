@@ -1,0 +1,13 @@
+Isaac SmartSort ??Strict Genuine-Grasp Benchmark
+Trials: 20
+Genuine grasp successes: 20
+Failures: 0
+Success rate: 100.0%
+Red / left: 11/11
+Blue / right: 9/9
+Average lift height: 0.2741 m
+Minimum lift height: 0.2647 m
+Maximum lift height: 0.2791 m
+Average placement error: 0.0037 m
+Maximum placement error: 0.0139 m
+
